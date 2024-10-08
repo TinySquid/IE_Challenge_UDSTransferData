@@ -1,0 +1,25 @@
+.fileInput {
+	display: none;
+}
+
+.uploadBtn {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 1rem;
+}
+
+.icon {
+	margin-right: 4px;
+}
+
+.errorText {
+	margin: 8px 0;
+	color: rgb(236, 77, 77);
+}
+
+.container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
